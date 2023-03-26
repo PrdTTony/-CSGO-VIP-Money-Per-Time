@@ -13,3 +13,5 @@ Change **500** to whatever ammount of credits you want to give
 *CreateTimer(60.0, TimerGiveCredits, _, TIMER_REPEAT|TIMER_FLAG_NO_MAPCHANGE);*
 
 Change **60.0** to how many seconds you want 
+
+# Compiled for Shop Core
